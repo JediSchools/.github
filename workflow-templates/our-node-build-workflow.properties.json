@@ -8,6 +8,6 @@
         "continuous-integration"
     ],
     "filePatterns": [
-        "jedi-way.md$"
+        "jedi-way.md"
     ]
 }
